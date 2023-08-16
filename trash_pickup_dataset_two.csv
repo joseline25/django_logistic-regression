@@ -1,4 +1,3 @@
-id,date,resident_id,weather,day_of_week,previous_requests,public_holiday,trash_pickup_request
 0,2022-01-01,60,Sunny,Saturday,5,0,1
 1,2022-01-02,32,Rainy,Sunday,2,0,1
 2,2022-01-03,3,Rainy,Monday,7,1,0
